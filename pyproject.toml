@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-lora-grid"
+version = "1.0.0"
+description = 'Magik Lora Grid'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-lora-grid"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Lora Grid"
